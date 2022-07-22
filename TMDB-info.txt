@@ -1,0 +1,23 @@
+@ssssangha
+@cleverqazi
+
+
+https://www.themoviedb.org/u/pankaj.mhetre
+
+userName - pankaj.mhetre
+password - T@
+
+API key - b2c4832b33e6552af1859f2a8bf1adad
+
+Netflix-clone website - https://netflix-clone-20b17.web.app/
+
+Fierbase app deployment - 
+
+npm install -g firebase-tools
+
+deployment commonad - 
+
+firebase login
+firebase init -> say build and y
+npm run build
+firebase deploy
